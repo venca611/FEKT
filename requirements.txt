@@ -2,3 +2,4 @@ pandas==0.24.2
 numpy==1.16.4
 watermark==2.0.2
 SchemDraw==0.7.1
+nbinteract==0.2.5
